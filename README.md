@@ -1,2 +1,3 @@
 # VQM-Tools-2025
-CONFIDENTIAL!!!
+Standardising inputs, data preprocessing, outputs, and visualization.
+Optimizing the task at hand.
